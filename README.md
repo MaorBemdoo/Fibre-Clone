@@ -20,3 +20,11 @@
 ## Why I used them
 
 ### I used the languages above to perfect my **CSS** skill, mainly _responsive design_ and _cloning a website to look close to it_
+
+## Issues I'm aware of and hope to fix
+
+<h3>
+  <li>The responsive design is not perfect</li>
+  <li>The second section with a caption <b>Explore by        neighbourhood</b> breaks at around 1148px of the screen</li>
+  <li>The whole website shrinks at around 862px</li>
+</h3>
