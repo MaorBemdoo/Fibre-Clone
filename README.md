@@ -50,3 +50,7 @@ git clone <repo>
 ## 👨‍💻Author
 
 ### **[Bemdoo Maor](https://github.com/MaorBemdoo)**
+
+## License
+
+### This repository is **[MIT](https://)** licensed. You can see the [License.md]() file for more.
