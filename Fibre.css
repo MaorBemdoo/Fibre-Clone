@@ -607,7 +607,6 @@ footer p {
 		margin-top: 1em;
 	}
 	.sec2-div1 {
-		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 	}
 	.div1-pic {
@@ -660,7 +659,6 @@ footer p {
 		margin-top: 1em;
 	}
 	.sec2-div1 {
-		display: grid;
 		grid-template-columns: repeat(1, 1fr);
 	}
 	.div1-pic {
@@ -675,53 +673,11 @@ footer p {
 	}
 }
 
-@media (max-width: 625px) {
-	body {
-		display: flex;
-		flex-direction: column;
-		width: 100%;
-	}
-	.header {
-		width: 100%;
-	}
-	.sec1 {
-		padding: 7em 0em;
-	}
-	.sec1-div {
-		width: 90%;
-		margin-inline: auto;
-	}
-	li {
-		text-align: left;
-	}
-	.div-div {
-		display: flex;
-		flex-direction: column;
-		width: 100%;
-	}
-	.sec1-sel {
-		width: 100%;
-	}
-	.sec1-img {
-		display: none;
-	}
-	.sec2 {
-		width: 90%;
-		margin-inline: auto;
-		margin-top: 1em;
-	}
-	.sec2-div1 {
-		display: grid;
-		grid-template-columns: repeat(1, 1fr);
-	}
-	.div1-pic {
-		height: 200px;
-		width: 150px;
-	}
+/* @media (max-width: 625px) {
 	.sec4,
 	.sec5,
 	.sec6 {
 		width: 100%;
 		min-width: 100%;
 	}
-}
+} */
