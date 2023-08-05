@@ -616,9 +616,13 @@ footer p {
 		grid-template-columns: repeat(1, 1fr);
 		padding: 8em 25%;
 	}
-    .sec4 > div {
-        text-align: center;
-    }
+	.sec4 > div {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		padding: 0;
+	}
 	/* .sec1,
 	.sec2,
 	.sec3,
@@ -685,9 +689,13 @@ footer p {
 		grid-template-columns: repeat(1, 1fr);
 		padding: 8em 25%;
 	}
-    .sec4 > div {
-        text-align: center;
-    }
+	.sec4 > div {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		padding: 0;
+	}
 	/*
 	.sec4,
 	.sec5,
