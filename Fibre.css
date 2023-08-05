@@ -665,6 +665,15 @@ footer p {
 		height: 200px;
 		width: 150px;
 	}
+	.sec3-div {
+		grid-template-columns: repeat(1, 1fr);
+	}
+	.sec3-div > div {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
 	.sec4,
 	.sec5,
 	.sec6 {
