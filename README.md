@@ -28,3 +28,10 @@
   <li>The second section with a caption <b>Explore by neighbourhood</b> breaks at around 1148px of the screen</li>
   <li>The whole website shrinks at around 862px</li>
 </h3>
+
+## How to install and run the project
+### Fork the project and clone it to your local machine
+```bash
+git clone <repo>
+```
+### Redirect to the *index.html* file on your browser or use live server to start the project
