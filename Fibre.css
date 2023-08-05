@@ -293,7 +293,7 @@ p {
 
 .div1-pic {
 	height: 330px;
-	width: 270px;
+	width: 80%;
 	color: white;
 	background-repeat: no-repeat;
 	font-weight: bolder;
@@ -539,7 +539,7 @@ footer p {
 
 .footer-sm > * {
 	padding-right: 1rem;
-    cursor: pointer;
+	cursor: pointer;
 }
 
 .footer-div1 {
@@ -614,14 +614,14 @@ footer p {
 		height: 270px;
 		width: 200px;
 	}
-	.sec1,
+	/* .sec1,
 	.sec2,
 	.sec3,
 	.sec4,
 	.sec5,
 	.sec6 {
 		width: 100% !important;
-	}
+	} */
 }
 
 @media (max-width: 825px) {
