@@ -612,6 +612,13 @@ footer p {
 		height: 270px;
 		width: 200px;
 	}
+	.sec4 {
+		grid-template-columns: repeat(1, 1fr);
+		padding: 8em 25%;
+	}
+    .sec4 > div {
+        text-align: center;
+    }
 	/* .sec1,
 	.sec2,
 	.sec3,
@@ -637,6 +644,7 @@ footer p {
 	.sec1-div {
 		width: 90%;
 		margin-inline: auto;
+		text-align: center;
 	}
 	li {
 		text-align: left;
@@ -673,11 +681,19 @@ footer p {
 		align-items: center;
 		flex-direction: column;
 	}
+	.sec4 {
+		grid-template-columns: repeat(1, 1fr);
+		padding: 8em 25%;
+	}
+    .sec4 > div {
+        text-align: center;
+    }
+	/*
 	.sec4,
 	.sec5,
 	.sec6 {
 		width: 100%;
-	}
+	} */
 }
 
 /* @media (max-width: 625px) {
