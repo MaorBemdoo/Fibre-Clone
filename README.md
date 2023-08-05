@@ -10,6 +10,6 @@
   <li>Custom Dropdown menu with just css on the first section</li>
 </h3>
 
-## Languaguages Used
+## Languages Used
 ### HTML5
 ### CSS3
