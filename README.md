@@ -46,3 +46,7 @@ git clone <repo>
 ![Designed For Every Budget Section](Img/DesignedForEveryBudgetSec.png)
 
 ### **[Live Demo](https://)**
+
+## 👨‍💻Author
+
+### **[Bemdoo Maor](https://github.com/MaorBemdoo)**
