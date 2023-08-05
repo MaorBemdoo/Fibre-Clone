@@ -25,6 +25,6 @@
 
 <h3>
   <li>The responsive design is not perfect</li>
-  <li>The second section with a caption <b>Explore by        neighbourhood</b> breaks at around 1148px of the screen</li>
+  <li>The second section with a caption <b>Explore by neighbourhood</b> breaks at around 1148px of the screen</li>
   <li>The whole website shrinks at around 862px</li>
 </h3>
