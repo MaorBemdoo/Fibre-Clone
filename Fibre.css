@@ -539,6 +539,7 @@ footer p {
 
 .footer-sm > * {
 	padding-right: 1rem;
+    cursor: pointer;
 }
 
 .footer-div1 {
