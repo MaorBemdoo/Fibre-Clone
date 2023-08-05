@@ -30,8 +30,19 @@
 </h3>
 
 ## How to install and run the project
+
 ### Fork the project and clone it to your local machine
+
 ```bash
 git clone <repo>
 ```
-### Redirect to the *index.html* file on your browser or use live server to start the project
+
+### Redirect to the _index.html_ file on your browser or use live server to start the project
+
+## Demo
+
+![First Section](Img/sec1.png)
+
+![Designed For Every Budget Section](Img/DesignedForEveryBudgetSec.png)
+
+### **[Live Demo](https://)**
