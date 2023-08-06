@@ -710,5 +710,17 @@ footer p {
 }
 
 @media (max-width: 746px) {
-	
+	.sec6-form{
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		padding-left: 25%;
+		padding-right: 25%;
+	}
+	.sec6-form input{
+		width: 100%;
+	}
+	.input-EA{
+		margin-bottom: 7px;
+	}
 }
