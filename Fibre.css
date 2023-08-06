@@ -723,4 +723,7 @@ footer p {
 	.input-EA{
 		margin-bottom: 7px;
 	}
+	.footer-div1 > *{
+		padding: 0 2rem;
+	}
 }
