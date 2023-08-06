@@ -709,11 +709,6 @@ footer p {
 	} */
 }
 
-/* @media (max-width: 625px) {
-	.sec4,
-	.sec5,
-	.sec6 {
-		width: 100%;
-		min-width: 100%;
-	}
-} */
+@media (max-width: 746px) {
+	
+}
