@@ -25,8 +25,7 @@
 
 <h3>
   <li>The responsive design is not perfect</li>
-  <li>The second section with a caption <b>Explore by neighbourhood</b> breaks at around 1148px of the screen</li>
-  <li>The whole website shrinks at around 862px</li>
+  <li>The whole website breakss at around 264px, I hope there's no device like that</li>
 </h3>
 
 ## How to install and run the project
