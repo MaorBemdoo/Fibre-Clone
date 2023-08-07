@@ -52,4 +52,4 @@ git clone <repo>
 
 ## License
 
-### This repository is **[MIT](https://)** licensed. You can see the [License.md]() file for more.
+### This repository is **[MIT](LICENSE)** licensed.
