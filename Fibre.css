@@ -103,6 +103,10 @@ p {
 	background-color: #2fb8ad !important;
 }
 
+.div2-list{
+	display: none;
+}
+
 .a1 {
 	color: black !important;
 	display: flex;
@@ -710,6 +714,12 @@ footer p {
 }
 
 @media (max-width: 746px) {
+	.header_div2 > a{
+		display: none;
+	}
+	.header_div2 > i{
+		display: block;
+	}
 	.sec6-form{
 		display: flex;
 		flex-direction: column;
