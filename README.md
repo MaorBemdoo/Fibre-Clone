@@ -25,7 +25,7 @@
 
 <h3>
   <li>The responsive design is not perfect</li>
-  <li>The whole website breakss at around 264px, I hope there's no device like that</li>
+  <li>The whole website breaks at around 264px</li>
 </h3>
 
 ## How to install and run the project
