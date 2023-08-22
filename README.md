@@ -49,6 +49,14 @@ git clone <repo>
 
 **[Bemdoo Maor](https://github.com/MaorBemdoo)**
 
+## Contributing
+
+Future Pull request and issues are welcome
+
+## Support
+
+Give this repo a ⭐ if you liked it
+
 ## License
 
 This repository is **[MIT](LICENSE)** licensed.
